@@ -2,7 +2,7 @@
 name = "pythondrf"
 version = "0.1.0"
 description = ""
-authors = ["Makima3 <natalia.kolchuk@gmail.com>"]
+authors = [" <strukhr@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
